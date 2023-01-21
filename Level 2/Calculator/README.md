@@ -1,0 +1,8 @@
+# Task 1: Calculator
+
+It takes a little skill to create a calculator with basic mathematical functionalities using CSS, HTML, and JavaScript. Calculators require an interactive interface to perform basic functions such as addition, subtraction, division, and multiplication. It will need a display screen to display the users input and give the results. The grid system in CSS is for the alignments of buttons on the calculator. The additional tools you need to build a fully functioning calculator include eventListeners, if-else statements, operators, loops, and so on.
+
+#### <u>Output:</u>
+<br>
+
+<img src="Output1.JPG" alt="Output" height=400 width=300>
